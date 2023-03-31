@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<buildingList>
+    <building>
+        <id>1</id>
+        <built>true</built>
+        <creationDate>2004</creationDate>
+        <title>Hospital</title>
+        <owner>John</owner>
+        <typeBuilding>Government</typeBuilding>
+        <address>st.pobedonskyi</address>
+        <floors>6</floors>
+    </building>
+    <building>
+        <id>2</id>
+        <built>true</built>
+        <creationDate>2006</creationDate>
+        <title>Fire station</title>
+        <owner>Poul</owner>
+        <typeBuilding>Government</typeBuilding>
+        <address>st.proigronskyi</address>
+        <floors>3</floors>
+    </building>
+</buildingList>
